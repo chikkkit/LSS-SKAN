@@ -10,7 +10,7 @@ This is the experimental code for the paper "LSS-SKAN: Efficient Kolmogorov–Ar
 
 **If you're looking for a Python library to quickly build SKAN, click [here](https://github.com/chikkkit/SKAN) to visit the GitHub repository of the skan library.**
 
-This library references code from [WavKAN](https://github.com/zavareh1/Wav-KAN), [EfficientKAN](https://github.com/Blealtan/efficient-kan), [FastKAN](https://github.com/ZiyaoLi/fast-kan), and [FourierKAN](https://github.com/GistNoesis/FourierKAN). These codes are placed in the modelnetwork folder and are mainly used for model comparison. The paper also compares [fKAN](https://github.com/alirezaafzalaghaei/fKAN) and [rKAN](https://github.com/alirezaafzalaghaei/rKAN), which are called as Python libraries.
+This library references code from [WavKAN](https://github.com/zavareh1/Wav-KAN)[2], [EfficientKAN](https://github.com/Blealtan/efficient-kan)[3], [FastKAN](https://github.com/ZiyaoLi/fast-kan)[4], and [FourierKAN](https://github.com/GistNoesis/FourierKAN)[5]. These codes are placed in the modelnetwork folder and are mainly used for model comparison. The paper also compares [fKAN](https://github.com/alirezaafzalaghaei/fKAN)[6] and [rKAN](https://github.com/alirezaafzalaghaei/rKAN)[7], which are called as Python libraries.
 
 ## Usage
 This code runs under Python 3.12.3. To use the library code, make sure you have the following Python libraries installed:
@@ -49,4 +49,10 @@ LSS_SKAN_Experiment_Code
 ```
 
 ## Reference
-[1] LSS-SKAN: Efficient Kolmogorov–Arnold Networks based on Single-Parameterized Function (submitted to arXiv)
+[1] LSS-SKAN: Efficient Kolmogorov–Arnold Networks based on Single-Parameterized Function(submited to arxiv)
+[2] WavKAN, https://github.com/zavareh1/Wav-KAN
+[3] EfficientKAN, https://github.com/Blealtan/efficient-kan
+[4] FastKAN, https://github.com/ZiyaoLi/fast-kan
+[5] FourierKAN, https://github.com/GistNoesis/FourierKAN
+[6] fkan, https://github.com/alirezaafzalaghaei/fKAN
+[7] rkan, https://github.com/alirezaafzalaghaei/rKAN
