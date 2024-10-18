@@ -1,7 +1,11 @@
 # LSS-SKAN
 
 ## Statement
-This is the experimental code for the paper "LSS-SKAN: Efficient Kolmogorov–Arnold Networks based on Single-Parameterized Function" [1]. It includes the preliminary experiment (preExp.py), Experiment 1 - Comparison of various SKANs under 10-epoch training (MLP_SSPKAN_10epoch_skans.py), Experiment 2 - Comparison of LSS-SKAN with other popular KAN variants under 10-epoch training (MLP_SSPKAN_10epoch.py), and Experiment 3 - Comparison of LSS-SKAN with other popular KAN variants under 30-epoch training (MLP_SSPKAN_30epoch_lr000101.py).
+This is the experimental code for the paper "LSS-SKAN: Efficient Kolmogorov–Arnold Networks based on Single-Parameterized Function" [1]. It includes:  
+- the preliminary experiment (preExp.py), 
+- Experiment 1 - Comparison of various SKANs under 10-epoch training (MLP_SSPKAN_10epoch_skans.py),   
+- Experiment 2 - Comparison of LSS-SKAN with other popular KAN variants under 10-epoch training (MLP_SSPKAN_10epoch.py),   
+- Experiment 3 - Comparison of LSS-SKAN with other popular KAN variants under 30-epoch training (MLP_SSPKAN_30epoch_lr000101.py).  
 
 **If you're looking for a Python library to quickly build SKAN, click [here](https://github.com/chikkkit/SKAN) to visit the GitHub repository of the skan library.**
 
@@ -43,4 +47,5 @@ LSS_SKAN_Experiment_Code
    └─ wavKAN.py
 ```
 
+## Reference
 [1] LSS-SKAN: Efficient Kolmogorov–Arnold Networks based on Single-Parameterized Function (submitted to arXiv)
