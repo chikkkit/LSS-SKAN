@@ -5,7 +5,7 @@
 
 **如果你正在寻找用于快速构建SKAN的Python库，点击[这里](https://github.com/chikkkit/SKAN)前往skan库的github仓库。**
 
-该库引用了[WavKAN](https://github.com/zavareh1/Wav-KAN)，[EfficientKAN](https://github.com/Blealtan/efficient-kan)，[FastKAN](https://github.com/ZiyaoLi/fast-kan)和[FourierKAN](https://github.com/GistNoesis/FourierKAN)库的代码，这些代码放置在modelnetwork文件夹里，主要用于模型对比。文章还对比了[fkan](https://github.com/alirezaafzalaghaei/fKAN)和[rkan](https://github.com/alirezaafzalaghaei/rKAN), 这些算法以Python库的形式被调用。
+该库引用了[WavKAN](https://github.com/zavareh1/Wav-KAN)，[EfficientKAN](https://github.com/Blealtan/efficient-kan)，[FastKAN](https://github.com/ZiyaoLi/fast-kan)和[FourierKAN](https://github.com/GistNoesis/FourierKAN)库的代码，这些代码放置在modelnetwork文件夹里，主要用于模型对比。文章还对比了[fKAN](https://github.com/alirezaafzalaghaei/fKAN)和[rKAN](https://github.com/alirezaafzalaghaei/rKAN), 这些算法以Python库的形式被调用。
 
 ## 使用
 本代码是在Python3.12.3下运行的。要使用该库代码，请确保安装了如下Python库：
