@@ -1,5 +1,7 @@
 # LSS-SKAN
 
+<center>**English**/[简体中文](https://github.com/chikkkit/LSS-SKAN/blob/main/README_zh.md)</center>
+
 ## Statement
 This is the experimental code for the paper "LSS-SKAN: Efficient Kolmogorov–Arnold Networks based on Single-Parameterized Function" [1]. It includes:  
 - the preliminary experiment (preExp.py), 
