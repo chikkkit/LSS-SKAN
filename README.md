@@ -49,10 +49,10 @@ LSS_SKAN_Experiment_Code
 ```
 
 ## Reference
-[1] LSS-SKAN: Efficient Kolmogorov–Arnold Networks based on Single-Parameterized Function(submited to arxiv)
-[2] WavKAN, https://github.com/zavareh1/Wav-KAN
-[3] EfficientKAN, https://github.com/Blealtan/efficient-kan
-[4] FastKAN, https://github.com/ZiyaoLi/fast-kan
-[5] FourierKAN, https://github.com/GistNoesis/FourierKAN
-[6] fkan, https://github.com/alirezaafzalaghaei/fKAN
-[7] rkan, https://github.com/alirezaafzalaghaei/rKAN
+[1] LSS-SKAN: Efficient Kolmogorov–Arnold Networks based on Single-Parameterized Function(submited to arxiv)  
+[2] WavKAN, https://github.com/zavareh1/Wav-KAN  
+[3] EfficientKAN, https://github.com/Blealtan/efficient-kan  
+[4] FastKAN, https://github.com/ZiyaoLi/fast-kan  
+[5] FourierKAN, https://github.com/GistNoesis/FourierKAN  
+[6] fkan, https://github.com/alirezaafzalaghaei/fKAN  
+[7] rkan, https://github.com/alirezaafzalaghaei/rKAN  
