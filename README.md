@@ -1,6 +1,5 @@
 # LSS-SKAN
-
-<center>**English**/[简体中文](https://github.com/chikkkit/LSS-SKAN/blob/main/README_zh.md)</center>
+<p align="center"><b>English</b> / <a href="https://github.com/chikkkit/LSS-SKAN/blob/main/README_zh.md">简体中文</a></p>
 
 ## Statement
 This is the experimental code for the paper "LSS-SKAN: Efficient Kolmogorov–Arnold Networks based on Single-Parameterized Function" [1]. It includes:  
