@@ -49,7 +49,7 @@ LSS_SKAN_Experiment_Code
 ```
 
 ## Reference
-[1] Chen Z, Zhang X. LSS-SKAN: Efficient Kolmogorov-Arnold Networks based on Single-Parameterized Function[J]. arXiv preprint arXiv:2410.14951, 2024.
+[1] Chen Z, Zhang X. LSS-SKAN: Efficient Kolmogorov-Arnold Networks based on Single-Parameterized Function[J]. arXiv preprint arXiv:2410.14951, 2024.  
 [2] WavKAN, https://github.com/zavareh1/Wav-KAN  
 [3] EfficientKAN, https://github.com/Blealtan/efficient-kan  
 [4] FastKAN, https://github.com/ZiyaoLi/fast-kan  
