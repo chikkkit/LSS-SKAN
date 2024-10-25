@@ -3,9 +3,9 @@
 ## 声明
 这是论文[LSS-SKAN: Efficient Kolmogorov–Arnold Networks based on Single-Parameterized Function](https://arxiv.org/abs/2410.14951) [1]中的实验代码，包含:
 - 预实验(preExp.py)，
-- 实验1——10epoch训练下各SKAN对比(MLP_SSPKAN_10epoch_skans.py)
-- 实验2——10epoch训练下LSS-SKAN与其他热门KAN变体的对比(MLP_SSPKAN_10epoch.py)
-- 实验3——30epoch训练下LSS-SKAN与其他热门KAN变体的对比(MLP_SSPKAN_30epoch_lr000101.py)。
+- 实验1——10epoch训练下各SKAN对比(LSS_SKAN_10epoch_skans.py)
+- 实验2——10epoch训练下LSS-SKAN与其他热门KAN变体的对比(LSS_SKAN_10epoch.py)
+- 实验3——30epoch训练下LSS-SKAN与其他热门KAN变体的对比(LSS_SKAN_30epoch_lr000101.py)。
 
 **如果你正在寻找用于快速构建SKAN的Python库，点击[这里](https://github.com/chikkkit/SKAN)前往skan库的github仓库。**
 
@@ -26,18 +26,18 @@ tqdm==4.66.4
 然后执行脚本运行代码：
 ```bash
 python preExp.py
-python MLP_SSPKAN_10epoch_skans.py
-python MLP_SSPKAN_10epoch.py
-python MLP_SSPKAN_30epoch_lr000101.py
+python LSS_SKAN_10epoch_skans.py
+python LSS_SKAN_10epoch.py
+python LSS_SKAN_30epoch_lr000101.py
 ```
 这将运行文章的四个实验。
 
 ## 文件说明
 ```
 LSS_SKAN_Experiment_Code
-├─ MLP_SSPKAN_10epoch.py  # 实验2——10epoch训练下LSS-SKAN与其他热门KAN变体的对比
-├─ MLP_SSPKAN_10epoch_skans.py  # 实验1——10epoch训练下各SKAN对比
-├─ MLP_SSPKAN_30epoch_lr000101.py  # 实验3——30epoch训练下LSS-SKAN与其他热门KAN变体的对比
+├─ LSS_SKAN_10epoch.py  # 实验2——10epoch训练下LSS-SKAN与其他热门KAN变体的对比
+├─ LSS_SKAN_10epoch_skans.py  # 实验1——10epoch训练下各SKAN对比
+├─ LSS_SKAN_30epoch_lr000101.py  # 实验3——30epoch训练下LSS-SKAN与其他热门KAN变体的对比
 ├─ preExp.py  # 预实验代码
 └─ modelnetwork  # 网络实现代码文件夹
    ├─ efficientKAN.py
