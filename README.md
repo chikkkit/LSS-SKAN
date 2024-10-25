@@ -2,7 +2,7 @@
 <p align="center"><b>English</b> / <a href="https://github.com/chikkkit/LSS-SKAN/blob/main/README_zh.md">简体中文</a></p>
 
 ## Statement
-This is the experimental code for the paper "LSS-SKAN: Efficient Kolmogorov–Arnold Networks based on Single-Parameterized Function" [1]. It includes:  
+This is the experimental code for the paper ["LSS-SKAN: Efficient Kolmogorov–Arnold Networks based on Single-Parameterized Function"](https://arxiv.org/abs/2410.14951) [1]. It includes:  
 - the preliminary experiment (preExp.py), 
 - Experiment 1 - Comparison of various SKANs under 10-epoch training (MLP_SSPKAN_10epoch_skans.py),   
 - Experiment 2 - Comparison of LSS-SKAN with other popular KAN variants under 10-epoch training (MLP_SSPKAN_10epoch.py),   
@@ -49,7 +49,7 @@ LSS_SKAN_Experiment_Code
 ```
 
 ## Reference
-[1] LSS-SKAN: Efficient Kolmogorov–Arnold Networks based on Single-Parameterized Function(submited to arxiv)  
+[1] Chen Z, Zhang X. LSS-SKAN: Efficient Kolmogorov-Arnold Networks based on Single-Parameterized Function[J]. arXiv preprint arXiv:2410.14951, 2024.
 [2] WavKAN, https://github.com/zavareh1/Wav-KAN  
 [3] EfficientKAN, https://github.com/Blealtan/efficient-kan  
 [4] FastKAN, https://github.com/ZiyaoLi/fast-kan  
