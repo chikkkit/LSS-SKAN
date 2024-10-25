@@ -10,7 +10,7 @@ This is the experimental code for the paper ["LSS-SKAN: Efficient Kolmogorov–A
 
 **If you're looking for a Python library to quickly build SKAN, click [here](https://github.com/chikkkit/SKAN) to visit the GitHub repository of the skan library.**
 
-This library references code from [WavKAN](https://github.com/zavareh1/Wav-KAN)[2], [EfficientKAN](https://github.com/Blealtan/efficient-kan)[3], [FastKAN](https://github.com/ZiyaoLi/fast-kan)[4], and [FourierKAN](https://github.com/GistNoesis/FourierKAN)[5]. These codes are placed in the modelnetwork folder and are mainly used for model comparison. The paper also compares [fKAN](https://github.com/alirezaafzalaghaei/fKAN)[6] and [rKAN](https://github.com/alirezaafzalaghaei/rKAN)[7], which are called as Python libraries.
+This library references code from [WavKAN](https://github.com/zavareh1/Wav-KAN) [2], [EfficientKAN](https://github.com/Blealtan/efficient-kan) [3], [FastKAN](https://github.com/ZiyaoLi/fast-kan) [4], and [FourierKAN](https://github.com/GistNoesis/FourierKAN) [5]. These codes are placed in the modelnetwork folder and are mainly used for model comparison. The paper also compares [fKAN](https://github.com/alirezaafzalaghaei/fKAN) [6] and [rKAN](https://github.com/alirezaafzalaghaei/rKAN) [7], which are called as Python libraries.
 
 ## Usage
 This code runs under Python 3.12.3. To use the library code, make sure you have the following Python libraries installed:
