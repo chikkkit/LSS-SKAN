@@ -45,7 +45,7 @@ LSS_SKAN_Experiment_Code
    ├─ fftKAN.py
    ├─ skan_exp_version.py  # SKAN网络实现代码
    └─ wavKAN.py
-```[
+```
 
 ## 引用
 [1] Chen Z, Zhang X. LSS-SKAN: Efficient Kolmogorov-Arnold Networks based on Single-Parameterized Function[J]. arXiv preprint arXiv:2410.14951, 2024.
